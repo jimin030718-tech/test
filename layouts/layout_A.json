@@ -1,0 +1,20 @@
+﻿{
+  "name": "A_top_text",
+  "canvas": { "width": 1240, "height": 1754 },
+  "elements": [
+    {
+      "id": "title",
+      "box": { "x": 100, "y": 90, "width": 1040, "height": 320 },
+      "font_size": 150,
+      "color": "#FFFFFF",
+      "outline": true
+    },
+    {
+      "id": "subtitle",
+      "box": { "x": 120, "y": 430, "width": 1000, "height": 200 },
+      "font_size": 66,
+      "color": "#FFF3C4",
+      "outline": true
+    }
+  ]
+}
